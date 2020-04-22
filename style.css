@@ -1,1 +1,86 @@
-
+body{
+ background-color: #fff6e9;
+ margin: 0;
+ padding: 0;
+}
+.content{
+	/*border: 1px dashed blue*/
+}
+.header{
+	background-image: url("Header.png");
+	background-size: cover;
+	width: auto;
+	height: 175px;
+	text-align: center;
+	padding-top: 15px;
+}
+.intro{
+	margin: 20px auto;
+	width: 50%;
+	height: 150px;
+}
+.column{
+	display: inline-block;
+	width: 30%;
+	height: 500px;
+	margin: 0px 10px;
+	/*border: 1px dashed black;*/
+}
+.pastries{
+	display: inline-block;
+	width: 30%;
+	margin: 4px;
+	height: 457px;
+	/*border: 1px solid red;*/
+}
+.picSmall{
+	margin: auto;
+	/*border: 1px solid black;*/
+	width: 75%;
+	height: 100px;
+}
+.pic{
+	margin: auto;
+	/*border: 1px solid red;*/
+	width: 80%;
+	height: 300px;
+}
+.picTwo{
+	margin: auto;
+	/*border: 1px solid red;*/
+	width: 75%;
+	height: 200px;
+}
+h1{
+	font-family: Courgette;
+	font-size: 40px;
+	margin: 5px;
+	text-align: center;
+}
+h2{
+	font-family: Courgette;
+	font-size: 20px;
+	margin: 5px;
+	text-align: center;
+}
+h3{
+	font-family: PT Sans Narrow;
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: -20px;
+}
+h4{
+	font-family: PT Sans Narrow;
+ 	font-size: 15px;
+ 	text-align: center;
+}
+h5{
+	font-family: PT Sans Narrow;
+	font-size: 12px;
+	text-align: center;
+}
+h6{
+	font-family: PT Sans Narrow;
+	font-size: 10px;
+	text-align: center;
+}
